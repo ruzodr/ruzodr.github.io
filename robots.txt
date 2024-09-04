@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ruzodr.github.io/sitemap/sitemap.cLqT.gz
